@@ -1,0 +1,3 @@
+daily_sales_min: 1000
+daily_orders_min: 2
+revenue_drop_pct: 50
